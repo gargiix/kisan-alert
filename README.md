@@ -162,4 +162,4 @@ The app will be available at `http://localhost:5173`.
 
 ## 📄 License
 
-This project was built for educational and hackathon purposes as part of SIPS 2026.
+This project was built for educational and hackathon purposes.
