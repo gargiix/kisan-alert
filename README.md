@@ -23,7 +23,7 @@ The project is fully deployed and live — the frontend and backend are hosted s
 
 **Live Application**
 Explore the working chat interface and crop advisory dashboard here:
-➡️ https://kisan-alert-frontend.vercel.app/
+➡️ https://agriwise-kisan.vercel.app/
 
 **Backend API**
 The Flask server powering the AI responses, deployed independently on Render:
