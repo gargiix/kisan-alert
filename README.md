@@ -1,4 +1,4 @@
-# 🌾 Kisan Alert
+# 🌾 AgriWise
 
 **AI-powered farming advisory platform for smallholder farmers — accessible via simple chat, no smartphone expertise required.**
 
@@ -13,7 +13,7 @@
 
 Small farmers make critical seasonal decisions — what to grow, when to irrigate, how to treat crop disease — largely based on habit and word-of-mouth, even though government soil, groundwater, satellite, and weather data already exists to inform better choices. That data rarely reaches farmers in a usable form.
 
-**Kisan Alert** closes that gap by delivering personalized, AI-generated farming advice through a simple conversational interface, designed to eventually work over basic phone calls and SMS — no app, no smartphone, no internet literacy required.
+**AgriWise** closes that gap by delivering personalized, AI-generated farming advice through a simple conversational interface, designed to eventually work over basic phone calls and SMS — no app, no smartphone, no internet literacy required.
 
 ---
 
@@ -87,7 +87,7 @@ Farmer (Chat / Future: Call / SMS)
 ## 📁 Project Structure
 
 ```
-kisan-alert/
+AgriWise/
 ├── frontend/               # React + TypeScript client
 │   ├── src/
 │   │   └── App.tsx         # Main application component
